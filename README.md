@@ -1,4 +1,4 @@
-- Hi 👋, I’m @gayanukabulegoda
+- Hi 👋, I’m Gayanuka Bulegoda
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA,MySQL
 - 📫 How to reach me --> gayanukariviru@gmail.com
