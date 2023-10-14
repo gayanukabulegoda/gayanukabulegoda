@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
 </div>
 <hr>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 <p align="center">
 <a href="www.linkedin.com/in/gayanuka-bulegoda-2b993127a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.whatsapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
