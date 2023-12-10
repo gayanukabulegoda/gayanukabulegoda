@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=silver&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
 </div>
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
@@ -28,24 +28,26 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400" align="right"/>
+<br>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
 - :credit_card: My full name is <b>Gayanuka Riviru Bulegoda</b> <br>
 - :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
 - :books: My major is <b>Software Engineering</b> <br>
 - :earth_asia: I live in <b>Matara, Sri Lanka</b> <br>
 - :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>. <br>
-- :monocle_face: I'm interested in <b>Coding,athletics,reading</b> and <b>watching tech-based videos & cricket matches</b> <br>
+- :monocle_face: I'm interested in <b>Coding , Athletics</b> <br>
 - :sunglasses: My quote is <b>"The Best is Yet to Be -Never Give Up"</b> <br>
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep 
+</p>
 <br>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 <br>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<p align="left">
+    
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-0078d7.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLServer](https://img.shields.io/badge/MySQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+</p>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
