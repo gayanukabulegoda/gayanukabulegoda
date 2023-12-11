@@ -1,11 +1,16 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<div align="center">
+    
+![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 <div align="center">
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="gayanukabulegoda | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 </div>
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=silver&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
 </div>
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
