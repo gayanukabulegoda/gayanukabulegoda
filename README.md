@@ -17,15 +17,14 @@
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
 <p align="center">
-<a href="www.linkedin.com/in/gayanuka-bulegoda-2b993127a"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gayanuka-bulegoda-2b993127a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://wa.me/94702410981" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href="grbulegoda@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
+ <a href="https://grbulegoda@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
 </p>
-
 
 <p align="center">
   <em>
-    This is ME, Gayanuka. <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
+    This is ME, Gayanuka. <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Software Engineering</b></a> <br>
     Aspiring <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -36,15 +35,16 @@
 </p>
 <br>
 <br>
+
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
 - :credit_card: My full name is <b>Gayanuka Riviru Bulegoda</b> <br>
-- :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
+- :school: I'm currently a 1st year student at <b>Institute of Software Engineering</b> <br>
 - :books: My major is <b>Software Engineering</b> <br>
 - :earth_asia: I live in <b>Matara, Sri Lanka</b> <br>
-- :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>. <br>
+- :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>, <b>Figma</b>. <br>
 - :monocle_face: I'm interested in <b>Coding , Athletics</b> <br>
-- :sunglasses: My quote is <b>"The Best is Yet to Be -Never Give Up"</b> <br>
+- :sunglasses: My quote is <b>"Beyond Every Setback, Resides a Triumph - Stay Resilient"</b> <br>
 </p>
 <br>
 <br>
@@ -53,7 +53,7 @@
 <br>
 <p align="left">
     
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-0078d7.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLServer](https://img.shields.io/badge/MySQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-0078d7.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![NetBeans](https://img.shields.io/badge/apache%20netbeans-5B4638?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLServer](https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-430098.svg?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0C322C?style=for-the-badge&logo=linux&logoColor=white)
 </p>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
