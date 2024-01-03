@@ -19,7 +19,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/gayanuka-bulegoda-2b993127a"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://wa.me/94702410981" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href="grbulegoda@gmail.com target="blank""><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
+ <a href="grbulegoda@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
 </p>
 
 
