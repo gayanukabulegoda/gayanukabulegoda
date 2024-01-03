@@ -5,19 +5,21 @@
 </div>
 
 <div align="center">
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="gayanukabulegoda | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social" />
 </div>
+
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Gayanuka+Bulegoda+;Welcome+to+My+Profile!">
 </div>
+    
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
 <p align="center">
 <a href="www.linkedin.com/in/gayanuka-bulegoda-2b993127a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.whatsapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = ""><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
+<a href="https://wa.me/94702410981" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href="grbulegoda@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
 </p>
 
 
