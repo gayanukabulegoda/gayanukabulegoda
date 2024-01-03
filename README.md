@@ -58,12 +58,11 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayanukabulegoda&layout=compact&show_icon=true&theme=algolia" alt="gayanukabulegoda-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=gayanukabulegoda&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayanukabulegoda&layout=compact&show_icon=true&theme=algolia&border_color=5B4638" alt="gayanukabulegoda-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=gayanukabulegoda&layout=compact&show_icon=true&theme=algolia&border_color=5B4638" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gayanukabulegoda&theme=algolia&background=0d1117&hide_border=true" />
-  
 </div>
 
 <br>
@@ -73,19 +72,18 @@
 ## For More Information, Please Check Out or Contact Me Via
 </div>
 
-
 <p align="center">
-  <a href="mailto: grbulegoda@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:grbulegoda@gmail.com">
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
+  </a> &nbsp;&nbsp;
+    
+  <a href="https://www.linkedin.com/in/gayanuka-bulegoda-2b993127a" target="blank">
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
   </a> &nbsp;&nbsp;
   
-  <a href="www.linkedin.com/in/gayanuka-bulegoda-2b993127a" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://profile-summary-for-github.herokuapp.com/user/gayanukabulegoda" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  <a href="https://profile-summary-for-github.herokuapp.com/user/gayanukabulegoda" target="blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/>
+  </a>
 <p> 
 
 <div align="center">
