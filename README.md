@@ -13,7 +13,11 @@
 
 ## About Me
 
-I am an Associate Software Engineer at [Twist Digital](https://twistdigital.live/), bringing hands-on experience in enterprise application development and software architecture to deliver scalable, maintainable solutions. Building on my Graduate Diploma studies at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) and currently reading for a **BSc (Hons) Computer Science** at the [University of Bolton, UK](https://www.bolton.ac.uk/), I’m passionate about leveraging modern technologies and best practices to drive meaningful change. Whether crafting robust backend systems, architecting intuitive user interfaces, or exploring new frameworks, I’m always curious, collaborative, and committed to excellence. Let’s connect and build something amazing together!
+Software Engineer at [Twist Digital](https://twistdigital.live/) with hands-on experience in designing and delivering scalable full-stack applications and interactive systems. I build end-to-end features with an emphasis on clean architecture, maintainability, and measurable product outcomes.
+
+I work across frontend and backend stacks and collaborate closely with product and design teams to align technical solutions with user needs. I contribute to technical planning, code quality, CI/CD automation, and sprint-driven delivery.
+
+Currently pursuing a BSc (Hons) Computer Science (Top-up) at the [University of Greater Manchester](https://greatermanchester.ac.uk/) and holding a Graduate Diploma in Software Engineering (GDSE) from [IJSE](https://ijse.lk/), Sri Lanka. Open to full-stack roles, technical leadership, and collaborative projects - feel free to connect or visit my site: [grbulegoda.me](https://grbulegoda.me/).
 
 ---
 
@@ -55,6 +59,7 @@ I am an Associate Software Engineer at [Twist Digital](https://twistdigital.live
 ### Database Management & ORMs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -64,6 +69,8 @@ I am an Associate Software Engineer at [Twist Digital](https://twistdigital.live
 
 ### DevOps Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github&logoColor=white)
 
