@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" alt="GRB. From idea to delivery. Architectural linework in ivory and graphite." width="1200">
+</picture>
+
 # Gayanuka Bulegoda
 
 **Software Engineer · Full-stack development · Matara, Sri Lanka**
