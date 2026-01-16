@@ -16,3 +16,19 @@ I turn product requirements into working software, connecting interface design, 
 At [Twist Digital](https://www.twistdigital.live/), I build across the frontend and backend of commercial platforms, including Novaland and StyleFrame AI. Alongside this, I work with freelance clients on delivered products and ongoing builds, from initial scope through to launch and handover.
 
 **Open to full-stack roles and freelance projects in Sri Lanka and remote collaborations worldwide.**
+
+## 02 / Selected work
+
+**[Novaland](https://www.grbulegoda.com/work/novaland)** · Full-stack contribution at Twist Digital  
+Virtual real estate and retail, connecting Next.js interfaces, NestJS services, PostgreSQL data, 3D assets, and smart-contract events.
+
+**[StyleFrame AI](https://www.grbulegoda.com/work/styleframe-ai)** · Product development at Twist Digital  
+AI-powered virtual try-on with catalogue tools, retailer portals, asynchronous image generation, and usage controls. Consumer mobile features remain in development.
+
+**[Alpha PetCare](https://www.grbulegoda.com/work/alpha-petcare)** · Freelance delivery  
+An ecommerce storefront, admin portal, and API, delivered with payments, inventory, order workflows, deployment, and documented client handover.
+
+**[Shrink Model](https://www.grbulegoda.com/work/shrink-model)** · Collaborative freelance product  
+A GLB optimisation workflow with configurable compression and visual comparison. My role covered project leadership, team coordination, and delivery management.
+
+[View all case studies →](https://www.grbulegoda.com/work)
