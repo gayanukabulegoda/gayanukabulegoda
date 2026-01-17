@@ -32,3 +32,15 @@ An ecommerce storefront, admin portal, and API, delivered with payments, invento
 A GLB optimisation workflow with configurable compression and visual comparison. My role covered project leadership, team coordination, and delivery management.
 
 [View all case studies →](https://www.grbulegoda.com/work)
+
+## 03 / Engineering toolkit
+
+| Area | Tools I work with |
+| :--- | :--- |
+| Interfaces | TypeScript, React, Next.js, Tailwind CSS, Figma |
+| Backend | Node.js, NestJS, Java, Spring Boot |
+| Data | PostgreSQL, MySQL, Redis, Prisma, Hibernate |
+| Delivery | Git, GitHub Actions, Docker, Linux, Vercel |
+| Project-specific work | Python, Flask, Three.js, Babylon.js, AI API integrations |
+
+My approach: clarify the requirement, connect the interface to the right data and services, then make the result testable and maintainable. I value reviewable changes, clear communication, and documentation that helps the next person build on the work.
