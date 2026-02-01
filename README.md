@@ -52,15 +52,13 @@ I value clear requirements, reviewable changes, meaningful tests, and documentat
 ## 04 / GitHub activity
 
 <p align="center">
-  <a href="https://github.com/gayanukabulegoda?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gayanukabulegoda&amp;background=1C1A18&amp;border=514B44&amp;stroke=514B44&amp;ring=C2BAB0&amp;fire=F5F1EA&amp;currStreakNum=F5F1EA&amp;sideNums=F5F1EA&amp;currStreakLabel=F5F1EA&amp;sideLabels=C2BAB0&amp;dates=C2BAB0&amp;border_radius=12&amp;disable_animations=true">
-      <img src="https://streak-stats.demolab.com/?user=gayanukabulegoda&amp;background=FCFAF7&amp;border=DED8CF&amp;stroke=DED8CF&amp;ring=625C56&amp;fire=292524&amp;currStreakNum=292524&amp;sideNums=292524&amp;currStreakLabel=292524&amp;sideLabels=625C56&amp;dates=625C56&amp;border_radius=12&amp;disable_animations=true" alt="GitHub contributions, current streak, and longest streak for Gayanuka Bulegoda. Open the contribution history for details." width="495">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gayanukabulegoda&amp;background=1C1A18&amp;border=514B44&amp;stroke=514B44&amp;ring=C2BAB0&amp;fire=F5F1EA&amp;currStreakNum=F5F1EA&amp;sideNums=F5F1EA&amp;currStreakLabel=F5F1EA&amp;sideLabels=C2BAB0&amp;dates=C2BAB0&amp;border_radius=12&amp;disable_animations=true">
+    <img src="https://streak-stats.demolab.com/?user=gayanukabulegoda&amp;background=FCFAF7&amp;border=DED8CF&amp;stroke=DED8CF&amp;ring=625C56&amp;fire=292524&amp;currStreakNum=292524&amp;sideNums=292524&amp;currStreakLabel=292524&amp;sideLabels=625C56&amp;dates=625C56&amp;border_radius=12&amp;disable_animations=true" alt="GitHub contributions, current streak, and longest streak for Gayanuka Bulegoda." width="495">
+  </picture>
 </p>
 
-A snapshot of activity visible on GitHub; private client and company work may not be fully represented. [View contribution history →](https://github.com/gayanukabulegoda?tab=overview)
+A snapshot of activity visible on GitHub; private client and company work may not be fully represented.
 
 ## 05 / Background
 
