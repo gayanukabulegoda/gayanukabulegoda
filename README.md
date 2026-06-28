@@ -13,24 +13,24 @@ I turn product requirements into working software, connecting interface design, 
 
 ## 01 / Current focus
 
-At [Twist Digital](https://www.twistdigital.live/), I build commercial platforms across frontend and backend. My freelance work spans scoping, development, deployment, and client handover.
+**Software Engineer at [Twist Digital](https://www.twistdigital.live/).** Contributed to metaverse platforms and AI clothing-generation products at Twist Digital.
+
+My freelance work spans scoping, development, deployment, and client handover.
 
 **Open to full-stack roles and freelance projects in Sri Lanka and remote collaborations worldwide.**
 
 ## 02 / Selected work
 
-- **[Novaland](https://www.grbulegoda.com/work/novaland)** · Full-stack contribution at Twist Digital, connecting virtual real estate and retail with APIs, 3D assets, and smart-contract events.
-- **[StyleFrame AI](https://www.grbulegoda.com/work/styleframe-ai)** · AI virtual try-on and retailer tools at Twist Digital. Consumer mobile features remain in development.
 - **[Alpha PetCare](https://www.grbulegoda.com/work/alpha-petcare)** · Freelance ecommerce delivery covering storefront, admin, payments, inventory, and client handover.
+- **[SLA Sentinel](https://www.grbulegoda.com/work/sla-sentinel)** · Individual machine-learning study of SLA breach risk, with leakage checks and time-based evaluation. Offline research, not a deployed alerting service.
+- **[LearnFlow](https://www.grbulegoda.com/work/learnflow)** · Individual full-stack learning-platform project connecting goals, progress, and NLP-based recommendations.
 
 <details>
 <summary><strong>More projects and research</strong></summary>
 
 - **[Shrink Model](https://www.grbulegoda.com/work/shrink-model)** · Collaborative freelance product<br>
   A GLB optimisation workflow with configurable compression and visual comparison. My role covered project leadership, team coordination, and delivery management.
-- **[SLA Sentinel](https://www.grbulegoda.com/work/sla-sentinel):** an individual study of SLA breach risk, with leakage checks and time-based evaluation. Offline research, not a deployed alerting service.
 - **[ScamSpot](https://www.grbulegoda.com/work/scamspot):** a research prototype for explaining suspicious message patterns. The case study documents evaluation limits and unmet model release gates.
-- **[LearnFlow](https://www.grbulegoda.com/work/learnflow):** an individual learning-platform project connecting goals, progress, and NLP-based recommendations.
 - **[FieldGuardian](https://www.grbulegoda.com/work/fieldguardian):** an individual crop-management system connecting field operations, resource records, and reporting.
 
 </details>
@@ -41,11 +41,11 @@ At [Twist Digital](https://www.twistdigital.live/), I build commercial platforms
 
 | Area | Tools I work with |
 | :--- | :--- |
-| Interfaces | TypeScript, React, React Native, Next.js, Tailwind CSS, Figma |
+| Interfaces | TypeScript, React, Next.js, Tailwind CSS, Figma |
 | Backend | Node.js, NestJS, Java, Spring Boot |
 | Data | PostgreSQL, MySQL, Redis, Prisma, Hibernate |
 | Delivery | Git, GitHub Actions, Docker, Linux, AWS |
-| Project-specific work | Python, Flask, Three.js, Babylon.js, AI API integrations |
+| Project-specific work | Python, Flask, Babylon.js, WebGL, AI and NLP integrations |
 
 I value clear requirements, reviewable changes, meaningful tests, and documentation that makes handover straightforward.
 
